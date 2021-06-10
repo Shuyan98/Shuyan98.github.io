@@ -1,12 +1,3 @@
-  <title>Guangyi Chen</title>
-  
-  <meta name="author" content="Guangyi Chen">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  
-  <link rel="stylesheet" type="text/css" href="stylesheet.css">
-  <link rel="icon" type="image/png" href="images/icon.png">
-</head>
-
 <body>
   <table style="width:100%;max-width:850px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
     <tr style="padding:0px">
