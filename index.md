@@ -2,7 +2,6 @@
   <tr>
     <td width="75%">
       <h1>Shuyan Li</h1>
-      <pstyle="line-height:1;">
       <p><b>PhD Candidate</b></p>
       <p><b><a href="http://ivg.au.tsinghua.edu.cn/index.php">Intelligent Vision Group(IVG)</a></b></p>
       <p><b>Department of Automation, Tsinghua University</b></p>
@@ -21,22 +20,14 @@ I am a fifth year Ph.D student in the Department of Automation at Tsinghua Unive
               
 I am broadly interested in computer vision and deep learning. My current research focuses on scalable visual retrieval, metric learning, video representation learning.
   
-## News
-              <li style="margin: 5px;" >
-                <b>2021-3:</b> 1 paper on video hashing is accepted by <a href="http://cvpr2021.thecvf.com">CVPR'2021</a>.
-              </li>
-              <li style="margin: 5px;" >
-                <b>2019-10:</b> 1 paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">TMM</a>.
-              </li>
-              <li style="margin: 5px;">
-                <b>2019-07:</b> 1 paper is accepted by <a href="http://iccv2019.thecvf.com/">ICCV'2019</a>.
-              </li>
-                <li style="margin: 5px;">
-                <b>2017-07:</b> Joined Professor Jiwen Lu's group.
-              </li>
+# News
+2021-3:  1 paper on video hashing is accepted by <a href="http://cvpr2021.thecvf.com">CVPR'2021</a>.
+2019-10: 1 paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">TMM</a>.
+2019-07: 1 paper is accepted by <a href="http://iccv2019.thecvf.com/">ICCV'2019</a>.
+2017-07: Joined Professor Jiwen Lu's group.
 
   
-### Header 3
+# Publications
 
 - Bulleted
 - List
