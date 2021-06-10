@@ -2,6 +2,7 @@
   <tr>
     <td width="75%">
       <h1>Shuyan Li</h1>
+      <pstyle="line-height:1;">
       <p><b>PhD Candidate</b></p>
       <p><b><a href="http://ivg.au.tsinghua.edu.cn/index.php">Intelligent Vision Group(IVG)</a></b></p>
       <p><b>Department of Automation</b></p>
