@@ -31,6 +31,7 @@ I am broadly interested in computer vision and deep learning. My current researc
 
   
 # Publications
+<table border="0">
  <tr>
             <td width="25%">
               <img style="width:100%;max-width:100%" src="bth.png" alt="dise">
@@ -48,6 +49,7 @@ I am broadly interested in computer vision and deep learning. My current researc
               <p>We propose a self-supervised learning framework for video hashing based on bidirectional transformers.</p>
             </td>
 </tr>
+</table>  
 
  <tr>
             <td width="25%">
