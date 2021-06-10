@@ -16,18 +16,38 @@
 
 # Biography
              
-I am a fifth year Ph.D student in the Department of Automation at Tsinghua University, advised by Prof. <a href="https://www.sigs.tsinghua.edu.cn/lx/"> Xiu Li, Prof. <a href="http://www.au.tsinghua.edu.cn/info/1110/1583.htm"> Jie Zhou </a> and Prof. <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu </a>. In 2016, I obtained my B.Eng. in the School of Mechanical Engineering and Electronic Information, China University of Geosciences.
+I am a fifth year Ph.D student in the Department of Automation at Tsinghua University, advised by Prof. <a href="https://www.sigs.tsinghua.edu.cn/lx/"> Xiu Li </a>, Prof. <a href="http://www.au.tsinghua.edu.cn/info/1110/1583.htm"> Jie Zhou </a> and Prof. <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu </a>. In 2016, I obtained my B.Eng. in the School of Mechanical Engineering and Electronic Information, China University of Geosciences.
               
 I am broadly interested in computer vision and deep learning. My current research focuses on scalable visual retrieval, metric learning, video representation learning.
   
 # News
-2021-3:  1 paper on video hashing is accepted by <a href="http://cvpr2021.thecvf.com">CVPR'2021</a>.
-2019-10: 1 paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">TMM</a>.
-2019-07: 1 paper is accepted by <a href="http://iccv2019.thecvf.com/">ICCV'2019</a>.
-2017-07: Joined Professor Jiwen Lu's group.
+<p>2021-3:  1 paper on video hashing is accepted by <a href="http://cvpr2021.thecvf.com">CVPR'2021</a>.</p>
+
+<p>2019-10: 1 paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">TMM</a>.</p>
+
+<p>2019-07: 1 paper is accepted by <a href="http://iccv2019.thecvf.com/">ICCV'2019</a>.</p>
+
+<p>2017-07: Joined Professor Jiwen Lu's group.</p>
 
   
 # Publications
+ <tr>
+            <td style="padding:20px;width:30%;max-width:30%" align="center">
+              <img style="width:100%;max-width:100%" src="images/motivation_1040.png" alt="dise">
+            </td>
+            <td width="75%" valign="center">
+              <papertitle>Deep Meta Metric Learning</papertitle>
+              <br>
+              <strong>Guangyi Chen</strong>, Tianren Zhang, Jiwen Lu and Jie Zhou
+              <br>
+              <em>IEEE International Conference on Computer Vision (<strong>ICCV</strong>)</em>, 2019
+              <br>
+              <a href="https://chengy12.github.io/files/1040_camera_ready_final.pdf">[PDF]</a> <a href="https://github.com/CHENGY12/DMML">[Code]</a> 
+              <br>
+              <p></p>
+              <p>We propose to understand the deep metric learning via meta-learning.</p>
+            </td>
+</tr>
 
 - Bulleted
 - List
