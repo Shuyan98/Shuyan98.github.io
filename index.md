@@ -21,13 +21,13 @@ I am a fifth year Ph.D student in the Department of Automation at Tsinghua Unive
 I am broadly interested in computer vision and deep learning. My current research focuses on scalable visual retrieval, metric learning, video representation learning.
   
 # News
-<p>2021-3:  1 paper on video hashing is accepted by <a href="http://cvpr2021.thecvf.com">CVPR'2021</a>.</p>
+2021-3:  1 paper on video hashing is accepted by <a href="http://cvpr2021.thecvf.com">CVPR'2021</a>.
 
-<p>2019-10: 1 paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">TMM</a>.</p>
+2019-10: 1 paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">TMM</a>.
 
-<p>2019-07: 1 paper is accepted by <a href="http://iccv2019.thecvf.com/">ICCV'2019</a>.</p>
+2019-07: 1 paper is accepted by <a href="http://iccv2019.thecvf.com/">ICCV'2019</a>.
 
-<p>2017-07: Joined Professor Jiwen Lu's group.</p>
+2017-07: Joined Professor Jiwen Lu's group.
 
   
 # Publications
@@ -92,6 +92,7 @@ I am broadly interested in computer vision and deep learning. My current researc
 </table>
 
 #Academic Services
+
 <b>Conference Reviewer / Program Committee Member:</b> ACM MM, ICME, WACV and so on.
 
 <b>Journal Reviewer:</b>  TIP, TMM, TCSVT and so on.
