@@ -51,6 +51,7 @@ I am broadly interested in computer vision and deep learning. My current researc
 </tr>
 </table>  
 
+<table border="0">
  <tr>
             <td width="25%">
               <img style="width:100%;max-width:100%" src="nph.png" alt="dise">
@@ -68,7 +69,9 @@ I am broadly interested in computer vision and deep learning. My current researc
               <p>We learn video hash functions via preserving the neighborhood structure in the video space.</p>
             </td>
 </tr>
-
+</table>
+  
+<table border="0">
  <tr>
             <td width="25%">
               <img style="width:100%;max-width:100%" src="Uvvh2.png" alt="dise">
@@ -86,15 +89,12 @@ I am broadly interested in computer vision and deep learning. My current researc
               <p>We propose an unsupervised variational video hashing method for scalable video retrieval</p>
             </td>
 </tr>
+</table>
 
-- Bulleted
-- List
+#Academic Services
+<b>Conference Reviewer / Program Committee Member:</b> ACM MM, ICME, WACV and so on.
 
-1. Numbered
-2. List
+<b>Journal Reviewer:</b>  TIP, TMM, TCSVT and so on.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+&copy; Shuyan Li | Last updated: June, 2021
 
