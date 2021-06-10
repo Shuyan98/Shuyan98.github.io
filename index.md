@@ -33,7 +33,7 @@ I am broadly interested in computer vision and deep learning. My current researc
 # Publications
  <tr>
             <td style="padding:20px;width:30%;max-width:30%" align="center">
-              <img style="width:100%;max-width:100%" src="data/bth.png" alt="dise">
+              <img style="width:100%;max-width:100%" src="bth.png" alt="dise">
             </td>
             <td width="75%" valign="center">
               <papertitle>Self-supervised Video Hashing via Bidirectional Transformers</papertitle>
@@ -42,10 +42,46 @@ I am broadly interested in computer vision and deep learning. My current researc
               <br>
               <em>IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</em>, 2021
               <br>
-              <a href="https://chengy12.github.io/data/Self-supervised Video Hashing via Bidirectional Transformers.pdf">[PDF]</a> <a href="https://github.com/Lily1994/BTH">[Code]</a> 
+              <a href="Self-supervised Video Hashing via Bidirectional Transformers.pdf">[PDF]</a> <a href="https://github.com/Lily1994/BTH">[Code]</a> 
               <br>
               <p></p>
               <p>We propose a self-supervised learning framework for video hashing based on bidirectional transformers.</p>
+            </td>
+</tr>
+
+ <tr>
+            <td style="padding:20px;width:30%;max-width:30%" align="center">
+              <img style="width:100%;max-width:100%" src="nph.png" alt="dise">
+            </td>
+            <td width="75%" valign="center">
+              <papertitle>Neighborhood Preserving Hashing for Scalable Video Retrieval</papertitle>
+              <br>
+              <strong>Shuyan Li</strong>, Zhixiang Chen, Jiwen Lu, Xiu Li, and Jie Zhou
+              <br>
+              <em>IEEE International Conference on Computer Vision (<strong>ICCV</strong>)</em>, 2019
+              <br>
+              <a href="Neighborhood Preserving Hashing for Scalable Video Retrieval.pdf">[PDF]</a>  
+              <br>
+              <p></p>
+              <p>We learn video hash functions via preserving the neighborhood structure in the video space.</p>
+            </td>
+</tr>
+
+ <tr>
+            <td style="padding:20px;width:30%;max-width:30%" align="center">
+              <img style="width:100%;max-width:100%" src="Uvvh2.png" alt="dise">
+            </td>
+            <td width="75%" valign="center">
+              <papertitle>Unsupervised Variational Video Hashing with 1D-CNN-LSTM Networks</papertitle>
+              <br>
+              <strong>Shuyan Li</strong>, Zhixiang Chen, Xiu Li, Jiwen Lu, and Jie Zhou
+              <br>
+              <em>IEEE Transactions on Multimedia (<strong>TMM</strong>)</em>, 2020
+              <br>
+              <a href="Unsupervised variational video hashing with 1D-CNN-LSTM Networks.pdf">[PDF]</a>
+              <br>
+              <p></p>
+              <p>We propose an unsupervised variational video hashing method for scalable video retrieval</p>
             </td>
 </tr>
 
