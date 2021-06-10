@@ -33,19 +33,19 @@ I am broadly interested in computer vision and deep learning. My current researc
 # Publications
  <tr>
             <td style="padding:20px;width:30%;max-width:30%" align="center">
-              <img style="width:100%;max-width:100%" src="images/motivation_1040.png" alt="dise">
+              <img style="width:100%;max-width:100%" src="data/bth.png" alt="dise">
             </td>
             <td width="75%" valign="center">
-              <papertitle>Deep Meta Metric Learning</papertitle>
+              <papertitle>Self-supervised Video Hashing via Bidirectional Transformers</papertitle>
               <br>
-              <strong>Guangyi Chen</strong>, Tianren Zhang, Jiwen Lu and Jie Zhou
+              <strong>Shuyan Li</strong>, Xiu Li, Jiwen Lu and Jie Zhou
               <br>
-              <em>IEEE International Conference on Computer Vision (<strong>ICCV</strong>)</em>, 2019
+              <em>IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</em>, 2021
               <br>
-              <a href="https://chengy12.github.io/files/1040_camera_ready_final.pdf">[PDF]</a> <a href="https://github.com/CHENGY12/DMML">[Code]</a> 
+              <a href="https://chengy12.github.io/data/Self-supervised Video Hashing via Bidirectional Transformers.pdf">[PDF]</a> <a href="https://github.com/Lily1994/BTH">[Code]</a> 
               <br>
               <p></p>
-              <p>We propose to understand the deep metric learning via meta-learning.</p>
+              <p>We propose a self-supervised learning framework for video hashing based on bidirectional transformers.</p>
             </td>
 </tr>
 
