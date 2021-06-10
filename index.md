@@ -32,7 +32,7 @@ I am broadly interested in computer vision and deep learning. My current researc
   
 # Publications
  <tr>
-            <td style="padding:20px;width:30%;max-width:30%" align="center">
+            <td width="25%">
               <img style="width:100%;max-width:100%" src="bth.png" alt="dise">
             </td>
             <td width="75%" valign="center">
@@ -50,7 +50,7 @@ I am broadly interested in computer vision and deep learning. My current researc
 </tr>
 
  <tr>
-            <td style="padding:20px;width:30%;max-width:30%" align="center">
+            <td width="25%">
               <img style="width:100%;max-width:100%" src="nph.png" alt="dise">
             </td>
             <td width="75%" valign="center">
@@ -68,7 +68,7 @@ I am broadly interested in computer vision and deep learning. My current researc
 </tr>
 
  <tr>
-            <td style="padding:20px;width:30%;max-width:30%" align="center">
+            <td width="25%">
               <img style="width:100%;max-width:100%" src="Uvvh2.png" alt="dise">
             </td>
             <td width="75%" valign="center">
