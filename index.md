@@ -8,7 +8,7 @@
       <p><b>Email: li-sy16@mails.tsinghua.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/lishuyan.JPG" width="100%">  
+      <img src="/IMG_1437.jpg" width="100%">  
     </td>
   </tr>
 </table>
