@@ -21,6 +21,8 @@ I am a fifth year Ph.D student in the Department of Automation at Tsinghua Unive
 I am broadly interested in computer vision and deep learning. My current research focuses on scalable visual retrieval, metric learning, video representation learning.
   
 # News
+2021-6: 1 paper on video hashing was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">TCSVT</a>.
+
 2021-3:  1 paper on video hashing was accepted by <a href="http://cvpr2021.thecvf.com">CVPR'2021</a>.
 
 2019-10: 1 paper on video hashing was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">TMM</a>.
