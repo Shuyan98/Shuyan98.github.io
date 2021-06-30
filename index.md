@@ -8,7 +8,7 @@
       <p><b>Email: li-sy16@mails.tsinghua.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/lishuyan.JPG" width="100%">  
+      <img src="/shuyan.jpg" width="100%">  
     </td>
   </tr>
 </table>
@@ -42,7 +42,7 @@ I am broadly interested in computer vision and deep learning. My current researc
               <br>
               <strong>Shuyan Li</strong>, Xiu Li, Jiwen Lu and Jie Zhou
               <br>
-              <em>IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</em>, 2021
+              <em>IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>)</em>, 2021
               <br>
               <a href="Structure-adaptive Neighborhood Preserving Hashing for Scalable Video Search.pdf">[PDF]</a>
               <br>
