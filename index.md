@@ -2,13 +2,13 @@
   <tr>
     <td width="75%">
       <h1>Shuyan Li</h1>
-      <p><b>PhD Candidate</b></p>
+      <p><b>PhD</b></p>
       <p><b><a href="http://ivg.au.tsinghua.edu.cn/index.php">Intelligent Vision Group(IVG)</a></b></p>
       <p><b>Department of Automation, Tsinghua University</b></p>
-      <p><b>Email: li-sy16@mails.tsinghua.edu.cn</b></p>
+      <p><b>Email: li-sy16@tsinghua.org.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/IMG_1437.jpg" width="100%">  
+      <img src="/lily.jpg" width="100%">  
     </td>
   </tr>
 </table>
@@ -16,7 +16,7 @@
 
 # Biography
              
-I am a fifth year Ph.D student in the Department of Automation at Tsinghua University, advised by Prof. <a href="https://www.sigs.tsinghua.edu.cn/lx/"> Xiu Li </a>, Prof. <a href="http://www.au.tsinghua.edu.cn/info/1110/1583.htm"> Jie Zhou </a> and Prof. <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu </a>. In 2016, I obtained my B.Eng. in the School of Mechanical Engineering and Electronic Information, China University of Geosciences.
+In 2022, I got my doctor's degree in the Department of Automation at Tsinghua University. I was advised by Prof. <a href="https://www.sigs.tsinghua.edu.cn/lx/"> Xiu Li </a>, Prof. <a href="http://www.au.tsinghua.edu.cn/info/1110/1583.htm"> Jie Zhou </a> and Prof. <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu </a>. In 2016, I obtained my B.Eng. in the School of Mechanical Engineering and Electronic Information, China University of Geosciences.
               
 I am broadly interested in computer vision and deep learning. My current research focuses on scalable visual retrieval, metric learning, video representation learning.
   
@@ -118,5 +118,5 @@ I am broadly interested in computer vision and deep learning. My current researc
 
 <b>Journal Reviewer:</b>  TIP, TMM, TCSVT and so on.
 
-&copy; Shuyan Li | Last updated: June, 2021
+&copy; Shuyan Li | Last updated: April, 2022
 
