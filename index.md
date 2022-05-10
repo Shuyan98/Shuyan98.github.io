@@ -8,7 +8,7 @@
       <p><b>Email: li-sy16@tsinghua.org.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/lily.jpg" width="100%">  
+      <img src="/IMG_1437.jpg" width="100%">  
     </td>
   </tr>
 </table>
@@ -16,7 +16,7 @@
 
 # Biography
              
-In 2022, I got my doctor's degree in the Department of Automation at Tsinghua University. I was advised by Prof. <a href="https://www.sigs.tsinghua.edu.cn/lx/"> Xiu Li </a>, Prof. <a href="http://www.au.tsinghua.edu.cn/info/1110/1583.htm"> Jie Zhou </a> and Prof. <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu </a>. In 2016, I obtained my B.Eng. in the School of Mechanical Engineering and Electronic Information, China University of Geosciences.
+In 2022, I got my doctor's degree in the Department of Automation at Tsinghua University. I was advised by Prof. <a href="https://www.sigs.tsinghua.edu.cn/lx/"> Xiu Li </a>, Prof. <a href="http://www.au.tsinghua.edu.cn/info/1110/1583.htm"> Jie Zhou </a> and Prof. <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu </a>. In 2016, I obtained my B.Eng. in the School of Mechanical Engineering and Electronic Information, China University of Geosciences. Now I am in a transitory stage, and I work as a research assistant in Tsinghua Shenzhen International Graduate School. I am seeking for a good position, wish me good luck!
               
 I am broadly interested in computer vision and deep learning. My current research focuses on scalable visual retrieval, metric learning, video representation learning.
   
@@ -118,5 +118,5 @@ I am broadly interested in computer vision and deep learning. My current researc
 
 <b>Journal Reviewer:</b>  TIP, TMM, TCSVT and so on.
 
-&copy; Shuyan Li | Last updated: April, 2022
+&copy; Shuyan Li | Last updated: May, 2022
 
