@@ -114,7 +114,7 @@ I am broadly interested in computer vision and deep learning. My current researc
 
 # Academic Services
 
-<b>Conference Reviewer / Program Committee Member:</b> ACM MM, ICME, WACV and so on.
+<b>Conference Reviewer:</b> ACM MM, ICME, WACV and so on.
 
 <b>Journal Reviewer:</b>  TIP, TMM, TCSVT and so on.
 
