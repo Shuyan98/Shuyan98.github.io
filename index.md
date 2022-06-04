@@ -20,7 +20,6 @@ In 2022, I got my doctor's degree in the Department of Automation at Tsinghua Un
               
 I am broadly interested in computer vision and deep learning. My current research focuses on scalable visual retrieval, metric learning, video representation learning.
 
-In my free time, I enjoy painting, singing, reading and fitness. 
   
 # News
 
