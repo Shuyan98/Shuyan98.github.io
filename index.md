@@ -16,7 +16,7 @@
 
 # Biography
              
-In 2022, I got my doctor's degree in the Department of Automation at Tsinghua University. I was advised by Prof. <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu </a>, Prof. <a href="http://www.au.tsinghua.edu.cn/info/1110/1583.htm"> Jie Zhou </a> and Prof. <a href="https://www.sigs.tsinghua.edu.cn/lx/"> Xiu Li </a>. Currently I am in a transitory stage, and I work as a research associate in Tsinghua Shenzhen International Graduate School with Prof. Xiu Li.
+In 2022, I got my doctor's degree in the Department of Automation at Tsinghua University. I was advised by Prof. <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu </a>, Prof. <a href="http://www.au.tsinghua.edu.cn/info/1110/1583.htm"> Jie Zhou </a> and Prof. <a href="https://www.sigs.tsinghua.edu.cn/lx/"> Xiu Li </a>. Currently I am in a transitory stage, and I work as a research associate in Tsinghua University with Prof. Xiu Li.
               
 I am broadly interested in computer vision and deep learning. My current research focuses on video retrieval, multi-modal learning, representation learning, unsupervised learning and transfer learning.
   
@@ -114,9 +114,9 @@ I am broadly interested in computer vision and deep learning. My current researc
 
 # Academic Services
 
-<b>Conference Reviewer:</b> ACM MM, ICME, WACV and so on.
+<b>Conference Reviewer:</b> IEEE/ACM TASLP, IEEE TIP, IEEE TMM, IEEE TCSVT, PR, Neuralcomputing, etc.
 
-<b>Journal Reviewer:</b>  TIP, TMM, TCSVT and so on.
+<b>Journal Reviewer:</b>  ICME2022, PRCV2022, ICME2021, ICME2020, WACV2020, ICIP 2020, etc.
 
-&copy; Shuyan Li | Last updated: May, 2022
+&copy; Shuyan Li | Last updated: July, 2022
 
