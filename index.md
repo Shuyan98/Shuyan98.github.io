@@ -114,9 +114,9 @@ I am broadly interested in computer vision and deep learning. My current researc
 
 # Academic Services
 
-<b>Conference Reviewer:</b> IEEE/ACM TASLP, IEEE TIP, IEEE TMM, IEEE TCSVT, PR, Neuralcomputing, etc.
+<b>Conference Reviewer:</b> ICME2022, PRCV2022, ICME2021, ICME2020, WACV2020, ICIP 2020, etc.
 
-<b>Journal Reviewer:</b>  ICME2022, PRCV2022, ICME2021, ICME2020, WACV2020, ICIP 2020, etc.
+<b>Journal Reviewer:</b>  IEEE/ACM TASLP, IEEE TIP, IEEE TMM, IEEE TCSVT, PR, Neuralcomputing, etc.
 
 &copy; Shuyan Li | Last updated: July, 2022
 
