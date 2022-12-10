@@ -2,10 +2,11 @@
   <tr>
     <td width="75%">
       <h1>Shuyan Li</h1>
-      <p><b>PhD</b></p>
-      <p><b><a href="http://ivg.au.tsinghua.edu.cn/index.php">Intelligent Vision Group(IVG)</a></b></p>
+      <p><b>Postdoc</b></p>
+      <p><b>Department of Engineering, University of Cambridge</b></p>
+      <p><b>PhD</b></p> from <p><b><a href="http://ivg.au.tsinghua.edu.cn/index.php">Intelligent Vision Group(IVG)</a></b></p>
       <p><b>Department of Automation, Tsinghua University</b></p>
-      <p><b>Email: li-sy16@tsinghua.org.cn</b></p>
+      <p><b>Email: sl2141@cam.ac.uk</b></p>
     </td>
     <td width="25%">
       <img src="/IMG_1437.jpg" width="100%">  
@@ -16,11 +17,13 @@
 
 # Biography
              
-In 2022, I got my doctor's degree in the Department of Automation at Tsinghua University. I was advised by Prof. <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu </a>, Prof. <a href="http://www.au.tsinghua.edu.cn/info/1110/1583.htm"> Jie Zhou </a> and Prof. <a href="https://www.sigs.tsinghua.edu.cn/lx/"> Xiu Li </a>. Currently I am in a transitory stage, and I work as a research associate in Tsinghua University with Prof. Xiu Li.
-              
-I am broadly interested in computer vision and deep learning. My current research focuses on video retrieval, multi-modal learning, representation learning, unsupervised learning and transfer learning.
+I am currently a Postdoctoral Research Associate in Department of Engineering at University of Cambridge, working with Prof. <p><b><a href="http://www.eng.cam.ac.uk/profiles/ib340">Ioannis Brilakis</a></b></p>. My role is to lead a work package of BIM2TWIN project, funded by European Commission H2020. I am broadly interested in computer vision and machine learning. My current research focuses on representation learning, point cloud processing and transfer learning.
+
+In 2022, I got my doctor's degree in the Department of Automation at Tsinghua University. I was supervised by Prof. <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu </a>, Prof. <a href="http://www.au.tsinghua.edu.cn/info/1110/1583.htm"> Jie Zhou </a> and Prof. <a href="https://www.sigs.tsinghua.edu.cn/lx/"> Xiu Li </a>.
   
 # News
+
+2022-11: 1 paper on transfer learning was accepted by <a href="https://aaai.org/Conferences/AAAI-23/">AAAI'23</a>.
 
 2021-6: 1 paper on video hashing was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE TCSVT</a>.
 
@@ -114,9 +117,9 @@ I am broadly interested in computer vision and deep learning. My current researc
 
 # Academic Services
 
-<b>Conference Reviewer:</b> ICME2022, PRCV2022, ICME2021, ICME2020, WACV2020, ICIP 2020, etc.
+<b>Conference Reviewer:</b> AAAI2023, ICME2022, PRCV2022, ICME2021, ICME2020, WACV2020, ICIP 2020, etc.
 
 <b>Journal Reviewer:</b>  IEEE/ACM TASLP, IEEE TIP, IEEE TMM, IEEE TCSVT, PR, Neuralcomputing, etc.
 
-&copy; Shuyan Li | Last updated: July, 2022
+&copy; Shuyan Li | Last updated: Nov., 2022
 
