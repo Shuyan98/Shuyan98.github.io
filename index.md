@@ -17,7 +17,7 @@
              
 I am currently a Postdoctoral Research Associate in Department of Engineering at University of Cambridge, working with Prof. <a href="http://www.eng.cam.ac.uk/profiles/ib340">Ioannis Brilakis</a>. My role is to lead a work package of BIM2TWIN project, funded by European Commission H2020. I am broadly interested in computer vision and machine learning. My current research focuses on representation learning, point cloud processing and transfer learning.
 
-In 2022, I got my doctor's degree in the Department of Automation at Tsinghua University, <a href="http://ivg.au.tsinghua.edu.cn/index.php">Intelligent Vision Group(IVG)</a>. I was supervised by Prof. <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu </a>, Prof. <a href="http://www.au.tsinghua.edu.cn/info/1110/1583.htm"> Jie Zhou </a> and Prof. <a href="https://www.sigs.tsinghua.edu.cn/lx/"> Xiu Li </a>. After that, I stayed in Tsinghua University as an Research Associate, waiting for a US visa. I am grateful to Prof. Xiu Li for giving me the opportunity to improve my ability of project management and supervision.  
+In 2022, I got my doctor's degree in the Department of Automation at Tsinghua University, <a href="http://ivg.au.tsinghua.edu.cn/index.php">Intelligent Vision Group(IVG)</a>. I was supervised by Prof. <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu </a>, Prof. <a href="http://www.au.tsinghua.edu.cn/info/1110/1583.htm"> Jie Zhou </a> and Prof. <a href="https://www.sigs.tsinghua.edu.cn/lx/"> Xiu Li </a>. After that, I stayed in Tsinghua University as a Research Associate, waiting for a US visa. I am grateful to Prof. Xiu Li for giving me the opportunity to improve my ability of project management and supervision.  
   
 # News
 
