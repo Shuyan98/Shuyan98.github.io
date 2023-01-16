@@ -51,7 +51,7 @@ per annual).
               <br>
               <em>Association for the Advancement of Artificial Intelligence (<strong>AAAI</strong>)</em>, 2023
               <br>
-              <a href="Adversarial Alignment for Source Free Object Detection.pdf">[PDF]</a>
+              <a href="https://arxiv.org/pdf/2301.04265.pdf">[PDF]</a> <a href="https://github.com/ChuQiaosong">[Code]</a>
               <br>
               <p></p>
               <p> We propose an adversarial learning based source free object detection method.</p>
