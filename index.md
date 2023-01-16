@@ -145,5 +145,5 @@ per annual).
 
 <b>Journal Reviewer:</b>  IEEE/ACM TASLP, IEEE TIP, IEEE TMM, IEEE TCSVT, PR, Neuralcomputing, etc.
 
-&copy; Shuyan Li | Last updated: Jan., 2022
+&copy; Shuyan Li | Last updated: Jan., 2023
 
