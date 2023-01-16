@@ -20,12 +20,14 @@ I am currently a Postdoctoral Research Associate in Department of Engineering at
 In 2022, I got my doctor's degree in the Department of Automation at Tsinghua University, <a href="http://ivg.au.tsinghua.edu.cn/index.php">Intelligent Vision Group(IVG)</a>. I was supervised by Prof. <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu </a>, Prof. <a href="http://www.au.tsinghua.edu.cn/info/1110/1583.htm"> Jie Zhou </a> and Prof. <a href="https://www.sigs.tsinghua.edu.cn/lx/"> Xiu Li </a>. After that, I stayed in Tsinghua University as a Research Associate, waiting for a US visa. I am grateful to Prof. Xiu Li for giving me the opportunity to improve my ability of project management and supervision.  
   
 # News
+2023-01: My doctorate thesis is awarded as Excellent Doctorate Dissertation by ShenZhen Association for Artificial Intelligence (3 people awarded
+per annual).
 
-2022-11: 1 paper on transfer learning was accepted by <a href="https://aaai.org/Conferences/AAAI-23/">AAAI'2023</a>.
+2022-11: 1 paper on transfer learning was accepted by <a href="https://aaai.org/Conferences/AAAI-23/">AAAI'2023</a> as oral presentation.
 
 2022-11: I started a role as a Postdoctoral Research Associate in University of Cambridge.
 
-2022-2: I got an <a href="https://athena.duke.edu/education-outreach"> Athena Post-Doctoral Fellowship</a> funded by NSF.
+<!-- 2022-2: I got an <a href="https://athena.duke.edu/education-outreach"> Athena Post-Doctoral Fellowship</a> funded by NSF. -->
 
 2021-6: 1 paper on video hashing was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE TCSVT</a>.
 
@@ -37,6 +39,26 @@ In 2022, I got my doctor's degree in the Department of Automation at Tsinghua Un
 
   
 # Publications
+<table border="0">
+ <tr>
+            <td width="25%">
+              <img style="width:100%;max-width:100%" src="A2SFOD.png" alt="dise">
+            </td>
+            <td width="75%" valign="center">
+              <papertitle>Adversarial Alignment for Source Free Object Detection</papertitle>
+              <br>
+              Qiaosong Chu, <strong>Shuyan Li</strong>, Guangyi Chen, Kai Li and Xiu Li
+              <br>
+              <em>Association for the Advancement of Artificial Intelligence (<strong>AAAI</strong>)</em>, 2023
+              <br>
+              <a href="Adversarial Alignment for Source Free Object Detection.pdf">[PDF]</a>
+              <br>
+              <p></p>
+              <p> We propose an adversarial learning based source free object detection method.</p>
+            </td>
+</tr>
+</table> 
+
 <table border="0">
  <tr>
             <td width="25%">
@@ -52,7 +74,7 @@ In 2022, I got my doctor's degree in the Department of Automation at Tsinghua Un
               <a href="Structure-adaptive Neighborhood Preserving Hashing for Scalable Video Search.pdf">[PDF]</a>
               <br>
               <p></p>
-              <p> We propose a Structure-adaptive Neighborhood Preserving Hashing (SNPH) method for unsupervised scalable video search.</p>
+              <p> This is the journal version of NPH. Compared with NPH, we further develop an encoding network that can capture the hierachical structure of a video.</p>
             </td>
 </tr>
 </table> 
@@ -72,7 +94,7 @@ In 2022, I got my doctor's degree in the Department of Automation at Tsinghua Un
               <a href="Self-supervised Video Hashing via Bidirectional Transformers.pdf">[PDF]</a> <a href="https://github.com/Lily1994/BTH">[Code]</a> 
               <br>
               <p></p>
-              <p>We propose a self-supervised learning framework for video hashing based on bidirectional transformers.</p>
+              <p>We propose a self-supervised learning framework to capture bidirectional correlations among videos based on transformers.</p>
             </td>
 </tr>
 </table>  
@@ -92,7 +114,7 @@ In 2022, I got my doctor's degree in the Department of Automation at Tsinghua Un
               <a href="Neighborhood Preserving Hashing for Scalable Video Retrieval.pdf">[PDF]</a>  
               <br>
               <p></p>
-              <p>We learn video hash functions via preserving the neighborhood structure in the video space.</p>
+              <p>We learn video hash functions via exploiting the neighborhood structure among videos.</p>
             </td>
 </tr>
 </table>
@@ -112,7 +134,7 @@ In 2022, I got my doctor's degree in the Department of Automation at Tsinghua Un
               <a href="Unsupervised variational video hashing with 1D-CNN-LSTM Networks.pdf">[PDF]</a>
               <br>
               <p></p>
-              <p>We propose an unsupervised variational video hashing method for scalable video retrieval</p>
+              <p>We propose a variational mechanism to learn robust video hash representation. </p>
             </td>
 </tr>
 </table>
@@ -123,5 +145,5 @@ In 2022, I got my doctor's degree in the Department of Automation at Tsinghua Un
 
 <b>Journal Reviewer:</b>  IEEE/ACM TASLP, IEEE TIP, IEEE TMM, IEEE TCSVT, PR, Neuralcomputing, etc.
 
-&copy; Shuyan Li | Last updated: Nov., 2022
+&copy; Shuyan Li | Last updated: Jan., 2022
 
