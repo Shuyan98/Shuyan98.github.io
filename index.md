@@ -24,6 +24,8 @@ In 2022, I got my doctor's degree in the Department of Automation at Tsinghua Un
 2023-01: My doctorate thesis is awarded as Excellent Doctorate Dissertation by ShenZhen Association for Artificial Intelligence (3 people awarded
 per annual).
 
+2023-01: I gave a seminar talk at Division D, Department of Engineering at University of Cambridge to introduce unsupervised learning for digital twins. Thanks Prof. Ioannis Brilakis for the invitation!
+
 2022-11: 1 paper on transfer learning was accepted by <a href="https://aaai.org/Conferences/AAAI-23/">AAAI'2023</a> as oral presentation.
 
 <!-- 2022-11: I started a role as a Postdoctoral Research Associate in University of Cambridge. -->
@@ -33,10 +35,10 @@ per annual).
 2021-6: 1 paper on video hashing was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE TCSVT</a>.
 
 2021-3:  1 paper on video hashing was accepted by <a href="http://cvpr2021.thecvf.com">CVPR'2021</a>.
-
+<!-- 
 2019-10: 1 paper on video hashing was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">IEEE TMM</a>.
 
-2019-07: 1 paper on video hashing was accepted by <a href="http://iccv2019.thecvf.com/">ICCV'2019</a>.
+2019-07: 1 paper on video hashing was accepted by <a href="http://iccv2019.thecvf.com/">ICCV'2019</a>. -->
 
   
 # Publications
