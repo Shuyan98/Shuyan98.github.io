@@ -51,7 +51,7 @@ per annual).
               <em>Association for the Advancement of Artificial Intelligence (<strong>AAAI</strong>)</em>, 2023
               <br>
               <a href="https://arxiv.org/pdf/2301.04265.pdf">[PDF]</a> 
-              <a href="AAAI.mp4">[Video]</a> 
+              <a href="https://youtu.be/omskABZs6Vo">[Video]</a> 
 <!--               <a href="https://github.com/ChuQiaosong">[Code]</a> -->
               <br>
               <p></p>
