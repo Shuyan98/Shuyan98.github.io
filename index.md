@@ -17,7 +17,7 @@
              
 I am currently a Postdoctoral Research Associate in Department of Engineering at University of Cambridge, working with Prof. <a href="http://www.eng.cam.ac.uk/profiles/ib340">Ioannis Brilakis</a>. My role is to lead a work package of BIM2TWIN project, funded by European Commission H2020. I am broadly interested in computer vision and machine learning. My current research focuses on representation learning, point cloud processing and transfer learning.
 
-In 2022, I got my doctor's degree in the Department of Automation at Tsinghua University, <a href="http://ivg.au.tsinghua.edu.cn/index.php">Intelligent Vision Group(IVG)</a>. I was supervised by Prof. <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu </a>, Prof. <a href="http://www.au.tsinghua.edu.cn/info/1110/1583.htm"> Jie Zhou </a> and Prof. <a href="https://www.sigs.tsinghua.edu.cn/lx/"> Xiu Li </a>. 
+In Jan. 2022, I got my doctor's degree in the Department of Automation at Tsinghua University, <a href="http://ivg.au.tsinghua.edu.cn/index.php">Intelligent Vision Group(IVG)</a>. I was supervised by Prof. <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu </a>, Prof. <a href="http://www.au.tsinghua.edu.cn/info/1110/1583.htm"> Jie Zhou </a> and Prof. <a href="https://www.sigs.tsinghua.edu.cn/lx/"> Xiu Li </a>. 
 <!-- After that, I stayed in Tsinghua University as a Research Associate, waiting for a US visa. I am grateful to Prof. Xiu Li for giving me the opportunity to improve my ability of project management and supervision.   -->
   
 # News
@@ -28,17 +28,13 @@ per annual).
 
 2022-11: 1 paper on transfer learning was accepted by <a href="https://aaai.org/Conferences/AAAI-23/">AAAI'2023</a> as oral presentation.
 
-<!-- 2022-11: I started a role as a Postdoctoral Research Associate in University of Cambridge. -->
+2022-10: I started a role as a Postdoctoral Research Associate in Department of Engineering, University of Cambridge.
 
-<!-- 2022-2: I got an <a href="https://athena.duke.edu/education-outreach"> Athena Post-Doctoral Fellowship</a> funded by NSF. -->
+2022-02: I got an <a href="https://athena.duke.edu/education-outreach"> Athena Post-Doctoral Fellowship</a> funded by NSF.
 
-2021-6: 1 paper on video hashing was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE TCSVT</a>.
+2021-06: 1 paper on video hashing was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE TCSVT</a>.
 
-2021-3:  1 paper on video hashing was accepted by <a href="http://cvpr2021.thecvf.com">CVPR'2021</a>.
-<!-- 
-2019-10: 1 paper on video hashing was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">IEEE TMM</a>.
-
-2019-07: 1 paper on video hashing was accepted by <a href="http://iccv2019.thecvf.com/">ICCV'2019</a>. -->
+2021-03:  1 paper on video hashing was accepted by <a href="http://cvpr2021.thecvf.com">CVPR'2021</a>.
 
   
 # Publications
@@ -55,6 +51,7 @@ per annual).
               <em>Association for the Advancement of Artificial Intelligence (<strong>AAAI</strong>)</em>, 2023
               <br>
               <a href="https://arxiv.org/pdf/2301.04265.pdf">[PDF]</a> 
+              <a href="AAAI.mp4">[Video]</a> 
 <!--               <a href="https://github.com/ChuQiaosong">[Code]</a> -->
               <br>
               <p></p>
@@ -143,11 +140,18 @@ per annual).
 </tr>
 </table>
 
+# Teaching
+<b>Demonstrator & Marking, 3F8 Inference, Department of Engineering, University of Cambridge, Lent term 2023
+  
+<b>TA, Computer culture basis, awarded as "Outstanding TA", Tsinghua University, Fall 2020
+
+<b>Teacher, Music, Central elementary school in Huangtu Town, Guizhou Province, Summer 2021
+
 # Academic Services
 
 <b>Conference Reviewer:</b> AAAI2023, ICME2022, PRCV2022, ICME2021, ICME2020, WACV2020, ICIP 2020, etc.
 
 <b>Journal Reviewer:</b>  IEEE/ACM TASLP, IEEE TIP, IEEE TMM, IEEE TCSVT, PR, Neuralcomputing, etc.
 
-&copy; Shuyan Li | Last updated: Jan., 2023
+&copy; Shuyan Li | Last updated: Feb., 2023
 
