@@ -21,7 +21,9 @@ In Jan. 2022, I got my doctor's degree in the Department of Automation at Tsingh
 <!-- After that, I stayed in Tsinghua University as a Research Associate, waiting for a US visa. I am grateful to Prof. Xiu Li for giving me the opportunity to improve my ability of project management and supervision.   -->
   
 # News
-2023-01: My doctorate thesis is awarded as Excellent Doctorate Dissertation by ShenZhen Association for Artificial Intelligence (3 people awarded
+2023-02: 3 papers on domain adaptation, object detection and multi-modal learning were accepted by <a href="https://2023.ieeeicassp.org">ICASSP'2023</a>.
+
+2023-01: My doctorate thesis was awarded as Excellent Doctorate Dissertation by ShenZhen Association for Artificial Intelligence (3 people awarded
 per annual).
 
 2023-01: I gave a seminar talk at Division D, Department of Engineering at University of Cambridge to introduce unsupervised learning for digital twins. Thanks Prof. Ioannis Brilakis for the invitation!
@@ -52,7 +54,7 @@ per annual).
               <br>
               <a href="https://arxiv.org/pdf/2301.04265.pdf">[PDF]</a> 
               <a href="https://youtu.be/omskABZs6Vo">[Video]</a> 
-<!--               <a href="https://github.com/ChuQiaosong">[Code]</a> -->
+              <a href="https://github.com/ChuQiaosong">[Code]</a>
               <br>
               <p></p>
               <p> We propose an adversarial learning based source free object detection method.</p>
@@ -141,15 +143,15 @@ per annual).
 </table>
 
 # Teaching
-<b>Demonstrator & Marking, 3F8 Inference, Department of Engineering, University of Cambridge, Lent term 2023
+Demonstrator & Marking, 3F8 Inference, Department of Engineering, University of Cambridge, Lent term 2023
   
-<b>TA, Computer culture basis, awarded as "Outstanding TA", Tsinghua University, Fall 2020
+TA, Computer culture basis, awarded as "Outstanding TA", Tsinghua University, Fall 2020
 
-<b>Teacher, Music, Central elementary school in Huangtu Town, Guizhou Province, Summer 2021
+Teacher, Music, Central elementary school in Huangtu Town, Guizhou Province, Summer 2021
 
 # Academic Services
 
-<b>Conference Reviewer:</b> AAAI2023, ICME2022, PRCV2022, ICME2021, ICME2020, WACV2020, ICIP 2020, etc.
+<b>Conference Reviewer:</b> AAAI, ICASSP, ICME, PRCV, WACV, ICIP, etc.
 
 <b>Journal Reviewer:</b>  IEEE/ACM TASLP, IEEE TIP, IEEE TMM, IEEE TCSVT, PR, Neuralcomputing, etc.
 
