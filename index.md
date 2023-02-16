@@ -23,8 +23,7 @@ In Jan. 2022, I got my doctor's degree in the Department of Automation at Tsingh
 # News
 2023-02: 3 papers on domain adaptation, object detection and multi-modal learning were accepted by <a href="https://2023.ieeeicassp.org">ICASSP'2023</a>.
 
-2023-01: My doctorate thesis was awarded as Excellent Doctorate Dissertation by ShenZhen Association for Artificial Intelligence (3 people awarded
-per annual).
+2023-01: My doctorate thesis was awarded as Excellent Doctorate Dissertation by <a href="https://saai.net.cn/2711.html"> ShenZhen Association for Artificial Intelligence</a> (3 people awarded per annual).
 
 2023-01: I gave a seminar talk at Division D, Department of Engineering at University of Cambridge to introduce unsupervised learning for digital twins. Thanks Prof. Ioannis Brilakis for the invitation!
 
@@ -143,7 +142,7 @@ per annual).
 </table>
 
 # Teaching
-Demonstrator & Marking, 3F8 Inference, Department of Engineering, University of Cambridge, Lent term 2023
+Demonstrator & Marking, <a href="http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iia-3f8-inference-2019-20"> 3F8: Inference</a>, Department of Engineering, University of Cambridge, Lent term 2023
   
 TA, Computer culture basis, awarded as "Outstanding TA", Tsinghua University, Fall 2020
 
