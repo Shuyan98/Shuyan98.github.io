@@ -93,7 +93,7 @@ In Jan. 2022, I got my doctor's degree in the Department of Automation at Tsingh
               <br>
               <em>IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</em>, 2021
               <br>
-              <a href="Self-supervised Video Hashing via Bidirectional Transformers.pdf">[PDF]</a> <a href="https://github.com/Lily1994/BTH">[Code]</a> 
+              <a href="Self-supervised Video Hashing via Bidirectional Transformers.pdf">[PDF]</a> <a href="https://github.com/Shuyan98/BTH">[Code]</a> 
               <br>
               <p></p>
               <p>We propose a self-supervised learning framework to capture bidirectional correlations among videos based on transformers.</p>
