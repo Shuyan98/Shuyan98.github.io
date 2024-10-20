@@ -141,7 +141,7 @@ Module owner, CSC1025 Procedural programming, School of EEECS, Queen's Universit
 
 Instructor, Digital Twin Workshop, University of Cambridge, 2024.
 
-Module co-designer, 4D4: Digital Construction, University of Cambridge, 2023.
+Module co-designer, <a href="https://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iib-4d4-digital-construction-2024-25"> 4D4: Digital Construction</a>, University of Cambridge, 2023.
 
 Demonstrator & Marking, <a href="http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iia-3f8-inference-2019-20"> 3F8: Inference</a>, Department of Engineering, University of Cambridge, Lent term 2023
   
