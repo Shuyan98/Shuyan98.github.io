@@ -2,9 +2,9 @@
   <tr>
     <td width="75%">
       <h1>Shuyan Li</h1>
-      <p><b>Postdoctoral Research Associate</b></p>
-      <p><b>Department of Engineering, University of Cambridge</b></p>
-      <p><b>Email: sl2141@cam.ac.uk</b></p>
+      <p><b>Lecturer/Assistant Professor</b></p>
+      <p><b>School of EEECS, Queen's University Belfast</b></p>
+      <p><b>Email: shuyan.li@qub.ac.uk</b></p>
     </td>
     <td width="25%">
       <img src="/IMG_1437.jpg" width="100%">  
@@ -15,27 +15,22 @@
 
 # Biography
              
-I am currently a Postdoctoral Research Associate in Department of Engineering at University of Cambridge, working with Prof. <a href="http://www.eng.cam.ac.uk/profiles/ib340">Ioannis Brilakis</a>. My role is to lead a work package of BIM2TWIN project, funded by European Commission H2020. I am broadly interested in computer vision and machine learning. My current research focuses on representation learning, point cloud processing and transfer learning.
 
-In Jan. 2022, I got my doctor's degree in the Department of Automation at Tsinghua University, <a href="http://ivg.au.tsinghua.edu.cn/index.php">Intelligent Vision Group(IVG)</a>. I was supervised by Prof. <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu </a>, Prof. <a href="http://www.au.tsinghua.edu.cn/info/1110/1583.htm"> Jie Zhou </a> and Prof. <a href="https://www.sigs.tsinghua.edu.cn/lx/"> Xiu Li </a>. 
-<!-- After that, I stayed in Tsinghua University as a Research Associate, waiting for a US visa. I am grateful to Prof. Xiu Li for giving me the opportunity to improve my ability of project management and supervision.   -->
+I am currently a Lecturer in the School of Electronics, Electrical Engineering and Computer Science (EEECS) at Queen's University Belfast. Prior to this, I worked as a Postdoctoral Research Associate in the Department of Engineering at the University of Cambridge, collaborating with Prof. <a href="http://www.eng.cam.ac.uk/profiles/ib340">Ioannis Brilakis</a>. In Jan. 2022, I got my doctor's degree in the Department of Automation at Tsinghua University, <a href="http://ivg.au.tsinghua.edu.cn/index.php">Intelligent Vision Group(IVG)</a>. I was supervised by Prof. <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu </a>, Prof. <a href="http://www.au.tsinghua.edu.cn/info/1110/1583.htm"> Jie Zhou </a> and Prof. <a href="https://www.sigs.tsinghua.edu.cn/lx/"> Xiu Li </a>. I am broadly interested in computer vision and AI for science. My current research focuses on representation learning, video understanding, construction digital twin.
+
   
 # News
+2024-06: I provided a talk on “Connecting Vision and Text for Video Analysis" at Computer Vision Symposium, Queen’s University Belfast, UK.
+
+2024-03: I delivered a guest lecture for the MSc program in Digital Innovation in Built Asset Management at University College London.
+
+2023-04: I provided a talk on “Unsupervised Learning for Visual Computing" at Department of Computer Science, University of Sheffield, UK.
+
 2023-02: 3 papers on domain adaptation, object detection and multi-modal learning were accepted by <a href="https://2023.ieeeicassp.org">ICASSP'2023</a>.
 
 2023-01: My doctorate thesis was awarded as Excellent Doctorate Dissertation by <a href="https://saai.net.cn/2711.html"> ShenZhen Association for Artificial Intelligence</a> (3 people awarded per annual).
 
 2023-01: I gave a seminar talk at Division D, Department of Engineering at University of Cambridge to introduce unsupervised learning for digital twins. Thanks Prof. Ioannis Brilakis for the invitation!
-
-2022-11: 1 paper on transfer learning was accepted by <a href="https://aaai.org/Conferences/AAAI-23/">AAAI'2023</a> as oral presentation.
-
-2022-10: I started a role as a Postdoctoral Research Associate in Department of Engineering, University of Cambridge.
-
-2022-02: I got an <a href="https://athena.duke.edu/education-outreach"> Athena Post-Doctoral Fellowship</a> funded by NSF.
-
-2021-06: 1 paper on video hashing was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE TCSVT</a>.
-
-2021-03:  1 paper on video hashing was accepted by <a href="http://cvpr2021.thecvf.com">CVPR'2021</a>.
 
   
 # Publications
@@ -142,6 +137,12 @@ In Jan. 2022, I got my doctor's degree in the Department of Automation at Tsingh
 </table>
 
 # Teaching
+Module owner, CSC1025 Procedural programming, School of EEECS, Queen's University Belfast, 2024.
+
+Instructor, Digital Twin Workshop, University of Cambridge, 2024.
+
+Module co-designer, 4D4: Digital Construction, University of Cambridge, 2023.
+
 Demonstrator & Marking, <a href="http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iia-3f8-inference-2019-20"> 3F8: Inference</a>, Department of Engineering, University of Cambridge, Lent term 2023
   
 TA, Computer culture basis, awarded as "Outstanding TA", Tsinghua University, Fall 2020
@@ -150,9 +151,11 @@ Teacher, Music, Central elementary school in Huangtu Town, Guizhou Province, Sum
 
 # Academic Services
 
+<b>Program chair:</b> BMVC2024 Workshop - DIFA: Deep Learning-based Image Fusion and Its Applications
+
 <b>Conference Reviewer:</b> AAAI, ICASSP, ICME, PRCV, WACV, ICIP, etc.
 
-<b>Journal Reviewer:</b>  IEEE/ACM TASLP, IEEE TIP, IEEE TMM, IEEE TCSVT, PR, Neuralcomputing, etc.
+<b>Journal Reviewer:</b>  IEEE TPAMI, IEEE/ACM TASLP, IEEE TIP, IEEE TMM, IEEE TCSVT, PR, Neuralcomputing, etc.
 
-&copy; Shuyan Li | Last updated: Feb., 2023
+&copy; Shuyan Li | Last updated: Oct., 2024
 
