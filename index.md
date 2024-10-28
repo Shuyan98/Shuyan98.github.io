@@ -155,7 +155,7 @@ Teacher, Music, Central elementary school in Huangtu Town, Guizhou Province, Sum
 
 <b>Conference Reviewer:</b> AAAI, ICASSP, ICME, PRCV, WACV, ICIP, etc.
 
-<b>Journal Reviewer:</b>  IEEE TPAMI, IEEE/ACM TASLP, IEEE TIP, IEEE TMM, IEEE TCSVT, PR, Neuralcomputing, etc.
+<b>Journal Reviewer:</b>  IEEE TPAMI, IEEE/ACM TASLP, IEEE TIP, IEEE TMM, IEEE TCSVT, PR, Neurocomputing, etc.
 
 &copy; Shuyan Li | Last updated: Oct., 2024
 
