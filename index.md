@@ -20,7 +20,7 @@ I am currently a Lecturer in the School of Electronics, Electrical Engineering a
 
   
 # News
-2024-10: I was elected as <a href="https://foresightnews.pro/article/detail/45347"> Forbes China Chinese Elite Top 100</a> .
+2024-10: I was honored to be recognized as one of <a href="https://baijiahao.baidu.com/s?id=1814347967494606168&wfr=spider&for=pc"> Forbes China’s Top 100 Chinese Elites</a> .
 
 2024-06: I provided a talk on “Connecting Vision and Text for Video Analysis" at Computer Vision Symposium, Queen’s University Belfast, UK.
 
